@@ -1,0 +1,6 @@
+{
+  "name": "OmniPDF Studio",
+  "description": "Visor y editor avanzado de PDF con firmas digitales, autenticación biométrica, sincronización en la nube, soporte offline, modo lectura nocturna y exportación de reportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
